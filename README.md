@@ -27,3 +27,6 @@ sudo python gtp_scanner.py
 准确度和metasploit的结果基本一致。
 
 大家一起卷起来。
+
+
+IP较多的话，可以用tqdm写个进度条，拒绝等待焦虑。
