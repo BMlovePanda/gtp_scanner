@@ -2,6 +2,8 @@
 
 ## 这是啥
 用于探测gtp协议
+> GPRS隧道协议（英语：GPRS Tunnelling Protocol，简称：GTP）是一组基于IP的通信协议，用于在GSM、UMTS和LTE网络中承载GPRS（通用分组无线业务，英语：General Packet Radio Service）。
+
 
 ## 为啥写
 gtp协议是udp端口，只是探测的话存在误报
